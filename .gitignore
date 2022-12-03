@@ -1,0 +1,11 @@
+# block work dirs
+
+88x31/
+88x31s/
+images/
+venv/
+__pycache__/
+
+
+cleaned/notgif/
+cleaned/offsize/
