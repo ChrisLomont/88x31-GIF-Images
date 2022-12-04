@@ -8,7 +8,7 @@ Here is a collection of 7304  88x31 gifs that used to be common sized for banner
 
 Example:
 
-![Images](art\Images.png)
+![Images](art/Images.png)
 
 
 
